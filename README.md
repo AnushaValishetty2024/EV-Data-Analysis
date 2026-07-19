@@ -77,20 +77,57 @@ The analysis includes:
 
 ---
 
-## 📉 Data Visualizations
+## 📊 Project Visualizations
 
-The project includes:
+### 1. Top 10 EV Manufacturers
 
-- Bar Chart – Top EV Manufacturers
-- Line Chart – EV Adoption by Model Year
-- Pie Chart – EV Type Distribution
-- Histogram – Electric Range Distribution
-- Heatmap – Correlation Analysis
-- Bar Chart – Top Counties
-- Bar Chart – Top Cities
-- Interactive Folium Map – EV Locations
+![Top EV Manufacturers](Visualizations/01_Top_Manufacturers.png)
 
 ---
+
+### 2. EV Adoption by Model Year
+
+![EV Adoption by Model Year](Visualizations/02_Model_Year.png)
+
+---
+
+### 3. Electric Vehicle Type Distribution
+
+![EV Type Distribution](Visualizations/03_EV_Type.png)
+
+---
+
+### 4. Electric Range Distribution
+
+![Electric Range Distribution](Visualizations/04_Electric_Range.png)
+
+---
+
+### 5. Top 10 Counties by EV Registrations
+
+![Top Counties](Visualizations/05_Top_Counties.png)
+
+---
+
+### 6. Correlation Heatmap
+
+![Correlation Heatmap](Visualizations/06_Heatmap.png)
+
+---
+
+### 7. Top 10 Cities by EV Registrations
+
+![Top Cities](Visualizations/07_Top_Cities.png)
+
+---
+
+### 8. Interactive EV Location Map
+
+GitHub cannot display an interactive HTML map directly inside a README.
+
+Open the interactive map here:
+
+[📍 EV Registration Map](Visualizations/08_EV_Map.html)
 
 ## 🤖 Machine Learning
 
